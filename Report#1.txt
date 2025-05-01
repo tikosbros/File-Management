@@ -1,0 +1,5 @@
+1. I faced challenges with supporting both recursive and non-recursive file organization while handling files without extensions.
+
+2. I solved them by using the find command with conditional logic and skipping files that lack extensions.
+
+3. My next step is to test the script thoroughly and consider adding features like logging or a dry-run option.
